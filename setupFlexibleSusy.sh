@@ -19,12 +19,12 @@ CURRENTDIR=$(pwd)
 # url for the current master branch on GitHub
 # (using FlexibleSUSY/FlexibleSUSY).
 flexisusydir="${CURRENTDIR}"
-flexisusyurl="git://github.com/FlexibleSUSY/FlexibleSUSY.git"
+flexisusyurl="git://github.com/pathron/FlexibleSUSY.git"
 
 # SARAH version to install if needed.
 sarahmajor=4
 sarahminor=2
-sarahpatch=1
+sarahpatch=2
 sarahversion="${sarahmajor}.${sarahminor}.${sarahpatch}"
 
 required_sarah_major="4"
